@@ -15,6 +15,11 @@ This repository contains projects and experiments exploring distributed systems 
 - Distributed workflows
 - And more to come!
 
+### Layout:
+`/projects` - Main directory for checked code
+`/notes` - Written or otherwise colleced and documented notes 
+`/docs` - Hard copies of special docs 
+
 ### About Me
 
 **Name:** Seamus Jackson
